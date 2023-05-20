@@ -128,7 +128,7 @@ pytestdebug.log
 # Large files
 *.h5
 *.csv
-.DS_Store
+.*
 
 # Data
 data_07_12_2021_new/
